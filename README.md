@@ -5,15 +5,15 @@
 ## Installation
 
 - This app requires the following packages:   
-    body-parser: version 1.18.3
-    dotenv: version 5.0.0
-    ejs: version 2.6.1
-    express: version 4.16.4
-    jasmine: version 3.3.0
-    pg: version 7.4.1
-    pg-hstore: version 2.3.2
-    request: version 2.83.0
-    sequelize: version 4.32.6
+    body-parser: version 1.18.3 
+    dotenv: version 5.0.0  
+    ejs: version 2.6.1  
+    express: version 4.16.4  
+    jasmine: version 3.3.0  
+    pg: version 7.4.1  
+    pg-hstore: version 2.3.2  
+    request: version 2.83.0  
+    sequelize: version 4.32.6  
 ### Clone
 
 - Clone this repo to your local machine using https://github.com/Justinelliott11375/wall-app
